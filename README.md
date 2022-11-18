@@ -1,4 +1,4 @@
-# codemberReto1-JAVA
+# codember-JAVA
 Solucion Reto1 Codember JAVA
 
 <h2>Reto 1</h2>
