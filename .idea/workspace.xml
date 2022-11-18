@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef0ab1b1-4b91-41df-ace7-4d0afc813e77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codember.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/user.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/validation.java" afterDir="false" />
+    <list default="true" id="ef0ab1b1-4b91-41df-ace7-4d0afc813e77" name="Changes" comment="Commit reto1 Codember">
+      <change afterPath="$PROJECT_DIR$/src/Reto_2/Asscii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reto_2/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_1/user.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_1/users.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_1/validation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,51 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mathe\IdeaProjects\codember\src\Reto_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Asscii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reto_2.Asscii" />
+      <module name="codember" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reto_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reto_1.validation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reto_1.validation" />
+      <module name="codember" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reto_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reto_2.main" />
+      <module name="codember" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reto_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="validation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="validation" />
       <module name="codember" />
@@ -60,6 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Asscii" />
+        <item itemvalue="Application.Reto_1.validation" />
         <item itemvalue="Application.validation" />
       </list>
     </recent_temporary>
@@ -73,8 +117,17 @@
       <option name="presentableId" value="Default" />
       <updated>1668616667309</updated>
       <workItem from="1668616669030" duration="7412000" />
-      <workItem from="1668706604743" duration="5846000" />
+      <workItem from="1668706604743" duration="7704000" />
+      <workItem from="1668734239048" duration="4004000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit reto1 Codember">
+      <created>1668714871705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668714871705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,15 +144,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/validation.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit reto1 Codember" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit reto1 Codember" />
   </component>
 </project>

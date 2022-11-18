@@ -1,9 +1,9 @@
+package Reto_1;
+
 import java.io.*;
-import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 public class validation {
     protected List<HashMap> usersValidated = new ArrayList<>();
@@ -23,7 +23,7 @@ public class validation {
         String[] datos2;
         List<HashMap> users = new ArrayList<>();
         try {
-            FileReader reader = new FileReader("C:\\Users\\mathe\\IdeaProjects\\codember\\src\\users.txt");
+            FileReader reader = new FileReader("C:\\Users\\mathe\\IdeaProjects\\codember\\src\\Reto_1\\users.txt");
             BufferedReader reading = new BufferedReader(reader);
             while (texto != null) {
                 texto = reading.readLine();
