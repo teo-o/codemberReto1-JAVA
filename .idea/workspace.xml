@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef0ab1b1-4b91-41df-ace7-4d0afc813e77" name="Changes" comment="Commit reto2 Codember">
+    <list default="true" id="ef0ab1b1-4b91-41df-ace7-4d0afc813e77" name="Changes" comment="update reto2 Codember">
+      <change afterPath="$PROJECT_DIR$/src/Reto_3/TiraColor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reto_2/Asscii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_2/Asscii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reto_2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_2/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -49,7 +49,7 @@
       <recent name="C:\Users\mathe\IdeaProjects\codember\src\Reto_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.TiraColor">
     <configuration name="Asscii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Reto_2.Asscii" />
       <module name="codember" />
@@ -69,6 +69,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Reto_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiraColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reto_3.TiraColor" />
+      <module name="codember" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Reto_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TiraColor" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Asscii" />
         <item itemvalue="Application.Reto_1.validation" />
@@ -116,7 +130,7 @@
       <workItem from="1668616669030" duration="7412000" />
       <workItem from="1668706604743" duration="7704000" />
       <workItem from="1668734239048" duration="4762000" />
-      <workItem from="1668914341646" duration="1879000" />
+      <workItem from="1668914341646" duration="4386000" />
     </task>
     <task id="LOCAL-00001" summary="Commit reto1 Codember">
       <created>1668714871705</created>
@@ -132,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668741812894</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update reto2 Codember">
+      <created>1668916643220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668916643220</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +193,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit reto1 Codember" />
     <MESSAGE value="Commit reto2 Codember" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit reto2 Codember" />
+    <MESSAGE value="update reto2 Codember" />
+    <option name="LAST_COMMIT_MESSAGE" value="update reto2 Codember" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Reto_3/TiraColor.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
