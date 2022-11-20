@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef0ab1b1-4b91-41df-ace7-4d0afc813e77" name="Changes" comment="Commit reto1 Codember">
-      <change afterPath="$PROJECT_DIR$/src/Reto_2/Asscii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reto_2/main.java" afterDir="false" />
+    <list default="true" id="ef0ab1b1-4b91-41df-ace7-4d0afc813e77" name="Changes" comment="Commit reto2 Codember">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_1/user.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_1/users.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_1/validation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reto_2/Asscii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_2/Asscii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reto_2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reto_2/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +115,8 @@
       <updated>1668616667309</updated>
       <workItem from="1668616669030" duration="7412000" />
       <workItem from="1668706604743" duration="7704000" />
-      <workItem from="1668734239048" duration="4004000" />
+      <workItem from="1668734239048" duration="4762000" />
+      <workItem from="1668914341646" duration="1879000" />
     </task>
     <task id="LOCAL-00001" summary="Commit reto1 Codember">
       <created>1668714871705</created>
@@ -127,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668714871705</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit reto2 Codember">
+      <created>1668741812894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668741812894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,9 +148,30 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit reto1 Codember" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit reto1 Codember" />
+    <MESSAGE value="Commit reto2 Codember" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit reto2 Codember" />
   </component>
 </project>
