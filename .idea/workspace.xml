@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef0ab1b1-4b91-41df-ace7-4d0afc813e77" name="Changes" comment="update reto2 Codember">
-      <change afterPath="$PROJECT_DIR$/src/Reto_3/TiraColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ef0ab1b1-4b91-41df-ace7-4d0afc813e77" name="Changes" comment="commit reto3 Codember" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +127,7 @@
       <workItem from="1668616669030" duration="7412000" />
       <workItem from="1668706604743" duration="7704000" />
       <workItem from="1668734239048" duration="4762000" />
-      <workItem from="1668914341646" duration="4386000" />
+      <workItem from="1668914341646" duration="4553000" />
     </task>
     <task id="LOCAL-00001" summary="Commit reto1 Codember">
       <created>1668714871705</created>
@@ -153,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668916643220</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit reto3 Codember">
+      <created>1668920504050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668920504050</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,17 +198,7 @@
     <MESSAGE value="Commit reto1 Codember" />
     <MESSAGE value="Commit reto2 Codember" />
     <MESSAGE value="update reto2 Codember" />
-    <option name="LAST_COMMIT_MESSAGE" value="update reto2 Codember" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Reto_3/TiraColor.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="commit reto3 Codember" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit reto3 Codember" />
   </component>
 </project>

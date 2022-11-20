@@ -22,10 +22,12 @@ public class TiraColor {
         int mayor = 0;
         dupla[0] = colores[0];
         dupla[1] = colores[1];
-        for (int i = 2; i < colores.length-1; i++) {
+        for (int i = 2; i < colores.length; i++) {
             if(colores[i].equals(dupla[0]))
             {
                 contador++;
+                duplaResultante[0] = dupla[0];
+                duplaResultante[1] = dupla[1];
             }
             else {
                 contador = 2;
@@ -37,7 +39,7 @@ public class TiraColor {
             dupla[0] = dupla[1];
             dupla[1] = colores[i];
         }
-        duplaResultante[0] = dupla[0];
+        duplaResultante[0] = duplaResultante[1];
         duplaResultante[1] = mayor + "";
         return duplaResultante;
     }
