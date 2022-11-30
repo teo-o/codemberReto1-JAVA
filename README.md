@@ -22,3 +22,6 @@ Solucion Retos de Codember en JAVA
 <h3>Challenge 3</h3>
 <a href="https://github.com/teo-o/codemberReto1-JAVA/blob/master/src/Reto_3/TiraColor.java">'TiraColor.java'</a>
 
+<h3>Challenge 4</h3>
+<a href="https://github.com/teo-o/codemberReto1-JAVA/blob/master/src/Reto_4/Contraseña.java">'Contraseña.java'</a>
+
