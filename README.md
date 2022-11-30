@@ -25,3 +25,5 @@ Solucion Retos de Codember en JAVA
 <h3>Challenge 4</h3>
 <a href="https://github.com/teo-o/codemberReto1-JAVA/blob/master/src/Reto_4/Contraseña.java">'Contraseña.java'</a>
 
+<h3>Challenge 5</h3>
+<a href="https://github.com/teo-o/codemberReto1-JAVA/blob/master/src/Reto_5/HungerGames.java">'HungerGames.java'</a>
